@@ -1,3 +1,4 @@
 <Response>
+    <Pause length="1"/>
     <Say voice="alice" language="pt-BR">Olá, esta é uma mensagem personalizada.</Say>
 </Response>
