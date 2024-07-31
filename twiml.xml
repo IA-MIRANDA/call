@@ -1,3 +1,3 @@
 <Response>
-    <Say voice="alice">Olá, esta é uma chamada de teste da Twilio.</Say>
+    <Say voice="alice" language="pt-BR">Olá, esta é uma mensagem personalizada.</Say>
 </Response>
